@@ -1,0 +1,7 @@
+Application opened
+3 seconds wait
+login successfull
+3 seconds wait
+Employee added
+3 seconds wait
+Logout copmleted
